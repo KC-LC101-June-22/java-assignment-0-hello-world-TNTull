@@ -1,7 +1,6 @@
 /**
  * Created by LaunchCode
  */
-
 //Teresa Tull worked on this on 9-13-2022
 
 public class HelloWorld {
